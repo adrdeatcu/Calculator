@@ -1,3 +1,7 @@
+let outputDisplay= document.getElementById("output")
+
+
+
 function add(a,b)
 {
     return a+b;
